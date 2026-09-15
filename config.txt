@@ -1,2 +1,3 @@
 Database: MongoDB
 Database: PostgreSQL
+TIMEOUT = 30
